@@ -1,7 +1,7 @@
 {
     "name": "graywings/exceptions",
     "description": "set_error_handler() wrapper",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
